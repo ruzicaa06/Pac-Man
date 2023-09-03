@@ -1,0 +1,12 @@
+C:\Users\cocor\source\repos\Pac-Man\bin\Debug\Pac-Man.exe.config
+C:\Users\cocor\source\repos\Pac-Man\bin\Debug\Pac-Man.exe
+C:\Users\cocor\source\repos\Pac-Man\bin\Debug\Pac-Man.pdb
+C:\Users\cocor\source\repos\Pac-Man\obj\Debug\Pac-Man.csproj.AssemblyReference.cache
+C:\Users\cocor\source\repos\Pac-Man\obj\Debug\Pac-Man.csproj.SuggestedBindingRedirects.cache
+C:\Users\cocor\source\repos\Pac-Man\obj\Debug\Pac_Man.Form1.resources
+C:\Users\cocor\source\repos\Pac-Man\obj\Debug\Pac_Man.Game.resources
+C:\Users\cocor\source\repos\Pac-Man\obj\Debug\Pac_Man.Properties.Resources.resources
+C:\Users\cocor\source\repos\Pac-Man\obj\Debug\Pac-Man.csproj.GenerateResource.cache
+C:\Users\cocor\source\repos\Pac-Man\obj\Debug\Pac-Man.csproj.CoreCompileInputs.cache
+C:\Users\cocor\source\repos\Pac-Man\obj\Debug\Pac-Man.exe
+C:\Users\cocor\source\repos\Pac-Man\obj\Debug\Pac-Man.pdb
