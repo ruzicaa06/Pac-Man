@@ -9,3 +9,9 @@
 
 # Изглед на апликацијата
 Со вклучување на апликацијата се отвора почетната форма која е прикажана на сл.1. При клик на копчето start се отвора нова форма (прикажана на сл.2) и играта започнува.
+
+![form1](https://github.com/ruzicaa06/Pac-Man/blob/master/form1.png)
+сл.1
+
+![form2](https://github.com/ruzicaa06/Pac-Man/blob/master/form2.png)
+сл.2
